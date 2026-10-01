@@ -1,0 +1,59 @@
+.egg-timer {
+    width: 250px;
+    padding: 30px;
+    background: #fdfbf7;
+    border-radius: 25px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.title {
+    font-size: 40px;
+    color: #ffcc00;
+    font-family: Arial, sans-serif;
+}
+
+.description {
+    color: #777;
+    font-size: 16px;
+}
+
+.timer {
+    font-size: 50px;
+    color: #333;
+}
+
+.choose-text {
+    font-size: 16px;
+    color: #555;
+}
+
+.egg-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.egg-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    background: #ffe680;
+}
+
+.start-button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 12px;
+    background: #ffcc00;
+    color: white;
+    font-size: 16px;
+}
+
+.reset-button {
+    margin-top: 10px;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 10px;
+    background: #eeeeee;
+    color: #555;
+}
